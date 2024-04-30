@@ -1,0 +1,33 @@
+.flores{
+    height: auto;
+    width:  100px;
+    border-radius: 30px;
+    border: solid 10px black;
+    margin:30px;
+}
+.bandeira:hover{
+    -webkit-box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 5px 5px rgba(0,0,0,0); 
+box-shadow: -10px 0px 13px -7px #000000, 10px 0px 13px -7px #000000, 5px 5px 5px 5px rgba(0,0,0,0);
+}
+.pagina{
+    background: burlywood;
+}
+.conteudo{
+    border: solid 10px black;
+    border-radius: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.voltar{
+    height: 40px;
+    width: 100px;
+    margin-left: 50%;
+    margin-right: 50%;
+    border: solid 10px black;
+    border-radius: 30px;
+    text-align:center;
+}
+.divflores{
+    margin-left: 20%;
+    margin-right: 20%;  
+}
